@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*I have knowladge of Java* :computer: _I have knowladge of C++_ :computer: **I have knowladge of C#** :computer: __I have knowladge of C__ :computer: _I have **knowladge** of HTML_ :computer:
